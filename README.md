@@ -8,7 +8,8 @@ Explain what software engineering is and discuss its importance in the technolog
 it systematicaly applies engineering principles methods and tools to develop and matain high quality software.
 its importances are quality asssuarance to softwares,it helps to identify and mitigate risks throughout the development lifecycle .
 Identify and describe at least three key milestones in the evolution of software engineering.
-1:Structured Programming which introduced fundamental practices for writing clear and maintainable code.2:Object-Oriented Programming which revolutionized software design by promoting modularity and reuse.
+1:Structured Programming which introduced fundamental practices for writing clear and maintainable code.
+2:Object-Oriented Programming which revolutionized software design by promoting modularity and reuse.
 Agile Methodologies transformed project management by emphasizing iterative development and flexibility.
 
 List and briefly explain the phases of the Software Development Life Cycle.
